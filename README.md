@@ -1,8 +1,8 @@
 # portfolio
 
-## John Sweet
+### Author: John Sweet
 
-## Epicodus: Intro to Programming
+### Epicodus: Intro to Programming
 This portfolio serves as the first code review project for the Epicodus program.
 
 ## Setup instructions
@@ -38,8 +38,10 @@ Below are the objectives the instructor will use to review your code with you ne
 * description of program
 * program setup instructions
 * link to site on GitHub Pages
-½7½7* copyright and e
+* copyright and license info
 ```
 
-##License
+### Copyright: John Sweet, 2019
+
+### License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
